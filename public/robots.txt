@@ -1,0 +1,16 @@
+# robots.txt for Sentra Academic Solutions
+# https://academic-solutions-production.up.railway.app
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://academic-solutions-production.up.railway.app/sitemap.xml
+
+# Crawl rate
+Crawl-delay: 1
+
+# Disallow specific paths (if needed in the future)
+# Disallow: /api/
+# Disallow: /admin/
+# Disallow: /private/

@@ -1,0 +1,89 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#09090b"/>
+  
+  <!-- Grid Pattern -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a1f" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  
+  <!-- Gradient Overlay -->
+  <rect width="1200" height="630" fill="url(#grad)" style="mix-blend-mode: overlay"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27272a;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#09090b;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Logo Icon -->
+  <g transform="translate(100, 215)">
+    <circle cx="50" cy="50" r="48" stroke="#71717a" stroke-width="2" fill="none"/>
+    <circle cx="50" cy="50" r="36" stroke="#52525b" stroke-width="1.5" fill="none"/>
+    <text x="50" y="62" text-anchor="middle" fill="#e4e4e7" font-family="system-ui, sans-serif" font-size="28" font-weight="700">SAS</text>
+  </g>
+  
+  <!-- Main Title -->
+  <text x="100" y="360" fill="#fafafa" font-family="system-ui, sans-serif" font-size="56" font-weight="700" letter-spacing="-0.02em">
+    7 Agent untuk 1 Mahasiswa
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="100" y="420" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="28" font-weight="400">
+    Selesaikan Skripsi Lebih Cepat dengan Sentra Academic Solutions
+  </text>
+  
+  <!-- Feature Tags -->
+  <g transform="translate(100, 460)">
+    <rect x="0" y="0" width="180" height="36" rx="18" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+    <text x="90" y="24" text-anchor="middle" fill="#d4d4d8" font-family="system-ui, sans-serif" font-size="14" font-weight="500">AI Multi-Agent</text>
+    
+    <rect x="196" y="0" width="160" height="36" rx="18" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+    <text x="276" y="24" text-anchor="middle" fill="#d4d4d8" font-family="system-ui, sans-serif" font-size="14" font-weight="500">Ilmu Kesehatan</text>
+    
+    <rect x="372" y="0" width="140" height="36" rx="18" fill="#18181b" stroke="#3f3f46" stroke-width="1"/>
+    <text x="442" y="24" text-anchor="middle" fill="#d4d4d8" font-family="system-ui, sans-serif" font-size="14" font-weight="500">Real-time</text>
+  </g>
+  
+  <!-- Right Side Visual -->
+  <g transform="translate(750, 165)">
+    <!-- Agent Nodes -->
+    <circle cx="50" cy="50" r="30" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+    <text x="50" y="56" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="10">1</text>
+    
+    <circle cx="150" cy="50" r="30" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+    <text x="150" y="56" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="10">2</text>
+    
+    <circle cx="250" cy="50" r="30" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+    <text x="250" y="56" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="10">3</text>
+    
+    <circle cx="100" cy="150" r="30" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+    <text x="100" y="156" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="10">4</text>
+    
+    <circle cx="200" cy="150" r="30" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+    <text x="200" y="156" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="10">5</text>
+    
+    <circle cx="150" cy="250" r="30" fill="#18181b" stroke="#52525b" stroke-width="2"/>
+    <text x="150" y="256" text-anchor="middle" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="10">6</text>
+    
+    <!-- Center Hub -->
+    <circle cx="150" cy="150" r="45" fill="#27272a" stroke="#71717a" stroke-width="2"/>
+    <text x="150" y="156" text-anchor="middle" fill="#fafafa" font-family="system-ui, sans-serif" font-size="12" font-weight="600">SAS</text>
+    
+    <!-- Connection Lines -->
+    <line x1="80" y1="50" x2="105" y2="105" stroke="#52525b" stroke-width="1.5"/>
+    <line x1="180" y1="50" x2="150" y2="105" stroke="#52525b" stroke-width="1.5"/>
+    <line x1="280" y1="50" x2="195" y2="105" stroke="#52525b" stroke-width="1.5"/>
+    <line x1="130" y1="180" x2="150" y2="205" stroke="#52525b" stroke-width="1.5"/>
+    <line x1="200" y1="180" x2="170" y2="205" stroke="#52525b" stroke-width="1.5"/>
+  </g>
+  
+  <!-- Bottom Bar -->
+  <rect x="100" y="560" width="1000" height="1" fill="#27272a"/>
+  <text x="100" y="595" fill="#71717a" font-family="system-ui, sans-serif" font-size="14">
+    academic-solutions-production.up.railway.app
+  </text>
+</svg>
