@@ -1,10 +1,8 @@
 <div align="center">
 
-# Sentra Academic Solutions (SAS)
+# Sentra Academic Solutions (SAS) (Comning Q3 2026)
 
 <img src="public/seven.png" alt="Sentra AI — Academic Solutions" width="100%" style="border-radius:12px;" />
-
-### Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
@@ -221,7 +219,7 @@ Powered exclusively by **Anthropic Claude** for superior reasoning and safety.[^
 
 **Institutional Deployment Available**: Customized SAS instances for Health Sciences faculties across Indonesia.
 
-- **Organization**: Sentra Healthcare Artificial Intelligence (Cibinong, West Java).
+- **Organization**: Sentra Healthcare Artificial Intelligence.
 - **Partnership Inquiries**: Indonesian Health Sciences institutions—contact for white-label licensing.
 - **Academic Licensing**: Via official IIK channels.
 
