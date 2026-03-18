@@ -1,9 +1,21 @@
-</div>
+<div align="center">
+
 # Sentra Academic Solutions (SAS)
 
-<img src="public/seven.png" alt="Sentra AI — Academic Solution" width="100%" style="border-radius:12px;" />
+![SAS Banner](https://via.placeholder.com/1200x400/ffffff/000000?text=Sentra+Academic+Solutions+-+Empowering+Health+Sciences+Academia)  
+*(Replace with IIK-branded banner image)*
 
-</div>
+### Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-green?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-13-orange?logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-16-slate?logo=shadcn&logoColor=white)
+![Railway](https://img.shields.io/badge/Deployed%20on-Railway-blueviolet?logo=railway&logoColor=white)
+[![License](https://img.shields.io/github/license/YOUR_USERNAME/ita-academy-solutions?style=flat&logo=github)](LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ita-academy
 
 ## Overview
 
