@@ -1,8 +1,9 @@
 <div align="center">
 
-# Sentra Academic Solutions (SAS) (Comning Q3 2026)
+# Sentra Academic Solutions (SAS) Comning Q3 2026
 
 <img src="public/seven.png" alt="Sentra AI — Academic Solutions" width="100%" style="border-radius:12px;" />
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript&logoColor=white)
