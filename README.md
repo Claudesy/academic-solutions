@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sentra%20Academic%20Solutions&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Academic%20Writing%20Platform%20for%20Health%20Sciences&descAlignY=58&descSize=16" width="100%"/>
+<img src="public/seven.png/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sentra%20Academic%20Solutions&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Academic%20Writing%20Platform%20for%20Health%20Sciences&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- BADGES -->
 <p>
