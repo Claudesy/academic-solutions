@@ -2,8 +2,7 @@
 
 # Sentra Academic Solutions (SAS)
 
-![SAS Banner](https://via.placeholder.com/1200x400/ffffff/000000?text=Sentra+Academic+Solutions+-+Empowering+Health+Sciences+Academia)  
-*(Replace with IIK-branded banner image)*
+<img src="public/seven.png" alt="Sentra AI — Academic Solutions" width="100%" style="border-radius:12px;" />
 
 ### Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)
