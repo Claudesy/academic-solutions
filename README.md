@@ -1,51 +1,7 @@
 # Sentra Academic Solutions (SAS)
 
-<div align="center">
-
-<!-- HEADER BANNER -->
-<img src="public/seven.png" alt="Sentra AI — Academic Solution" width="100%" style="border-radius:12px;" />
-
-<!-- BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/version-1.0.0-6C63FF?style=for-the-badge&logo=semver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/powered%20by-Claude%20AI%20%7C%20Anthropic-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/platform-Claude.ai%20Projects-4ECDC4?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/status-Active%20Development-2ECC71?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/language-Bahasa%20Indonesia%20%7C%20English-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/domain-Health%20Sciences-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/agents-7%20Specialized-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/license-Proprietary-lightgrey?style=flat-square"/>
-</p>
-
-<br/>
-
-> **"Not just an AI tool — your complete academic co-pilot, from research question to defense day."**
-
-<br/>
-
-</div>
-
----
-
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Sentra Academic Solutions (SAS) - Professional README
-
-Boss, berikut revisi lengkap dalam **Bahasa Inggris** sepenuhnya, sangat detail dan komprehensif untuk konteks pendidikan serius. Diperkaya dengan best practices GitHub 2026: struktur mendalam, table ekstensif, instruksi presisi, etika akademik tebal, tanpa ikon apapun untuk tampilan profesional medis/dokumen resmi.[^1][^2][^3][^4][^5]
-
-Copy-paste langsung ke repo GitHub `ita Academy Solutions`.
-
-***
-
-<div align="center">
-
-# Sentra Academic Solutions (SAS)
-
   
-*(Replace with actual professional banner image)*
+<img src="public/seven.png" alt="Sentra AI — Academic Solution" width="100%" style="border-radius:12px;" />
 
 [ [ [
 
