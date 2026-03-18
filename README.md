@@ -12,9 +12,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-13-orange?logo=framer&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-16-slate?logo=shadcn&logoColor=white)
 ![Railway](https://img.shields.io/badge/Deployed%20on-Railway-blueviolet?logo=railway&logoColor=white)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/ita-academy-solutions?style=flat&logo=github)](LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ita-academy
+[![License](https://img.shields.io/github/license/YOUR_USERNAME/ita-academy-solutions?style=flat&logo=github)](LICENSE)/>
 
 ## Overview
 
