@@ -1,9 +1,7 @@
+</div>
 # Sentra Academic Solutions (SAS)
 
-  
 <img src="public/seven.png" alt="Sentra AI — Academic Solution" width="100%" style="border-radius:12px;" />
-
-[ [ [
 
 </div>
 
